@@ -17,5 +17,5 @@ Questo progetto è una semplice applicazione web scritta in Python usando **Flas
 
 1. Clona il progetto:
    ```bash
-   git clone https://github.com/tuo-username/hostname-webpage.git
+   git clone https://github.com/lucaggg97/hostname-webpage.git
    cd hostname-webpage
